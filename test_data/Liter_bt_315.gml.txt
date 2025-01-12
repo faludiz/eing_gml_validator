@@ -1,1 +1,1 @@
-file:/d:/Programok/eing_gml_validator/test_data/Liter_bt_315.gml:2:0:ERROR:SCHEMASV:SCHEMAV_ELEMENT_CONTENT: Element '{eing.foldhivatal.hu}geometry': This element is not expected. Expected is ( {eing.foldhivatal.hu}JELKULCS ).
+file:/D:/Programok/eing_gml_validator/test_data/Liter_bt_315.gml:2:0:ERROR:SCHEMASV:SCHEMAV_ELEMENT_CONTENT: Element '{eing.foldhivatal.hu}geometry': This element is not expected. Expected is ( {eing.foldhivatal.hu}JELKULCS ).
