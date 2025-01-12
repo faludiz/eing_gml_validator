@@ -1,0 +1,1 @@
+d:\Programok\eing_gml_validator\test_data\export.gml is VALID
